@@ -1,0 +1,22 @@
+{
+  "name": "ASSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of ASSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gopito/ASSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gopito": "a.smolianin@corp.mail.ru"
+  },
+  "source": {
+    "git": "https://github.com/gopito/ASSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ASSuperImages/Classes/**/*"
+}
